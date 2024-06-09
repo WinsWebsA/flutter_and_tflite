@@ -1,0 +1,5 @@
+Pepper bell Bacterial_spot
+Pepper bell healthy 
+Tomato Bacterial spot 
+Tomato Early blight 
+Tomato healthy
